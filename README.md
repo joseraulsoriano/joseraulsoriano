@@ -17,9 +17,9 @@
 
 <div align="center">
 
-<a href="https://rtcsolutions-web.vercel.app"><img src="./founder-medal.svg" alt="Fundador de RTC Solutions" width="180" /></a>
+### Fundador de RTC Solutions
 
-<p align="center" width="100%"><strong>Software empresarial especializado</strong> — centraliza, automatiza y crece.<br/>Integraciones omnicanal, automatización de procesos y analítica en tiempo real para empresas medianas. Entregado en semanas, no en meses.</p>
+**Software empresarial especializado** — centraliza, automatiza y crece. Integraciones omnicanal, automatización de procesos y analítica en tiempo real para empresas medianas. Entregado en semanas, no en meses.
 
 <a href="https://rtcsolutions-web.vercel.app"><img src="https://img.shields.io/badge/RTC%20Solutions-Visitar%20sitio-0D1117?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="RTC Solutions" /></a>
 
