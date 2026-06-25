@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="90" viewBox="0 0 720 90" fill="none" role="img" aria-label="José Raúl Soriano">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E5484D"/>
+      <stop offset="50%" stop-color="#7C6CF0"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <clipPath id="reveal">
+      <rect x="0" y="0" width="0" height="90">
+        <animate attributeName="width" values="0;720" dur="1.8s" begin="0.2s" fill="freeze"
+                 calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.15 1"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#reveal)">
+    <text x="360" y="58" text-anchor="middle"
+          font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+          font-size="46" font-weight="800" letter-spacing="0.5"
+          fill="url(#grad)">José Raúl Soriano</text>
+  </g>
+  <rect x="0" y="78" width="0" height="3" rx="1.5" fill="url(#grad)">
+    <animate attributeName="width" values="0;720" dur="1.8s" begin="0.2s" fill="freeze"
+             calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.15 1"/>
+  </rect>
+</svg>

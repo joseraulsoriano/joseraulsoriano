@@ -1,69 +1,104 @@
 <div align="center">
 
-<a href="https://joserauldev.qzz.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Public+Sans&weight=600&size=30&pause=1200&color=6366F1&center=true&vCenter=true&width=720&height=60&lines=Jos%C3%A9+Ra%C3%BAl+Soriano;Ingeniero+full-stack;iOS+%C2%B7+Angular+%C2%B7+AWS+%C2%B7+IA+aplicada" alt="José Raúl Soriano" />
-</a>
+<a href="https://joserauldev.qzz.io"><img src="./name.svg" alt="José Raúl Soriano" width="720" /></a>
+
+<p><sub>INGENIERO FULL-STACK &nbsp;·&nbsp; iOS &nbsp;·&nbsp; ANGULAR &nbsp;·&nbsp; AWS &nbsp;·&nbsp; IA APLICADA</sub></p>
 
 <p>
-<a href="https://joserauldev.qzz.io"><img src="https://img.shields.io/badge/Portafolio-6366F1?style=flat-square&logo=vercel&logoColor=white" alt="Portafolio" /></a>
-<a href="https://www.linkedin.com/in/joseraulchasee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:raulcazabal@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=joseraulsoriano&style=flat-square&color=6366F1&label=views" alt="views" />
+<a href="https://joserauldev.qzz.io"><img src="https://img.shields.io/badge/Portafolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portafolio" /></a>
+<a href="https://www.linkedin.com/in/joseraulchasee"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+<a href="mailto:raulcazabal@icloud.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=maildotru&logoColor=E5484D" alt="Email" /></a>
+<a href="https://github.com/joseraulsoriano"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 </p>
 
 </div>
 
-<br/>
+---
 
-### 👋 Sobre mí
+## Sobre mí
 
 Ingeniero **full-stack** que construye producto de punta a punta: del **iOS nativo (Swift)** y los **frontends** (Angular · Next.js + React 19) al **backend e infraestructura** (AWS · Django · Node · MongoDB). Me muevo entre la **arquitectura de producto**, la **IA aplicada** (visión, RAG, agentes de voz) y el detalle de UX que hace que algo se sienta terminado.
 
-```ts
-const jose = {
-  hoy: 'Accesibilidad audio-first con Ray-Ban Meta + agentes de voz (Platanus Hack 26)',
-  meGusta: ['monorepos', 'hubs por tecnología', 'dejar todo documentado'],
-  base: 'México 🇲🇽 — construyo para MX y LATAM',
-}
-```
+- Hoy construyo accesibilidad audio-first con Ray-Ban Meta y agentes de voz por teléfono (Platanus Hack 26).
+- Trabajo en monorepos, organizo hubs por tecnología y dejo todo documentado.
+- Con base en México; construyo para MX y LATAM.
 
-<br/>
+---
 
-### 🛠️ Stack
+## Stack
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,angular,swift,tailwind,nodejs,django,aws,mongodb,cpp,docker,git,vercel&perline=7)](https://joserauldev.qzz.io)
+[![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,angular,swift,tailwind,nodejs,django,aws,mongodb,cpp,docker,git,vercel,vue,threejs,express,fastapi,redis,cloudflare,githubactions,arduino,grafana,prometheus&perline=8)](https://joserauldev.qzz.io)
 
 </div>
 
-<br/>
+---
 
-### 🚀 Proyectos destacados
+## Proyectos destacados
 
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| 🦾 **[MyEyesTalk · Puente](https://github.com/platanus-hack/platanus-hack-26-mx-team-5)** | Accesibilidad audio-first sobre Ray-Ban Meta Gen 2: narración espacial, lista de compras y decisiones por voz para personas con discapacidad visual. | Swift · iOS · Cloudflare Workers · Claude/GPT-4o · ElevenLabs · RAG |
-| ☎️ **hackAIVoice** | Agente de voz por llamada: Twilio Media Streams ↔ ElevenLabs Conversational AI con identidad por número. | Node · Express · Twilio · WebSocket · ElevenLabs |
-| 🌐 **[Portafolio](https://joserauldev.qzz.io)** | Next.js 16, React 19, Three.js, animaciones GSAP, cubo 3×3 de hubs por tecnología y auditoría de seguridad. | Next.js · React · TypeScript · Three.js |
+<table>
+<tr><td width="50%" valign="top">
 
-> 🏆 Hackathons: HackMTY · Hack Morelos · Talent Land · Meta · TuFuturo — y organicé **Hack Lobo** en la BUAP.
+#### [MyEyesTalk · Puente](https://github.com/platanus-hack/platanus-hack-26-mx-team-5)
 
-<br/>
+Accesibilidad audio-first sobre Ray-Ban Meta Gen 2: narración espacial, lista de compras y decisiones por voz para personas con discapacidad visual.
 
-### 📊 GitHub
+![Swift](https://img.shields.io/badge/-Swift-0D1117?style=flat-square&logo=swift&logoColor=F05138)
+![iOS](https://img.shields.io/badge/-iOS-0D1117?style=flat-square&logo=apple&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-0D1117?style=flat-square&logo=cloudflareworkers&logoColor=F38020)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-0D1117?style=flat-square&logo=elevenlabs&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-0D1117?style=flat-square&logo=anthropic&logoColor=D97757)
+
+</td><td width="50%" valign="top">
+
+#### [hackAIVoice](https://github.com/rlaaron/hackAIVoice)
+
+Agente de voz por llamada: Twilio Media Streams puenteado con ElevenLabs Conversational AI e identidad por número.
+
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express&logoColor=white)
+![Twilio](https://img.shields.io/badge/-Twilio-0D1117?style=flat-square&logo=twilio&logoColor=F22F46)
+![WebSocket](https://img.shields.io/badge/-WebSocket-0D1117?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+#### [Portafolio](https://joserauldev.qzz.io)
+
+Next.js 16, React 19, Three.js, animaciones GSAP, cubo 3×3 de hubs por tecnología y auditoría de seguridad.
+
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Three.js](https://img.shields.io/badge/-Three.js-0D1117?style=flat-square&logo=threedotjs&logoColor=white)
+
+</td><td width="50%" valign="top">
+
+#### Hackathons
+
+HackMTY · Hack Morelos · Talent Land · Meta · TuFuturo. Organizador de **Hack Lobo** en la BUAP.
+
+![Hackathons](https://img.shields.io/badge/-Competidor%20%26%20Organizador-0D1117?style=flat-square&logo=devpost&logoColor=22D3EE)
+
+</td></tr>
+</table>
+
+---
+
+## GitHub
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=joseraulsoriano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=joseraulsoriano&theme=tokyonight&hide_border=true" alt="streak" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=joseraulsoriano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=22D3EE&icon_color=E5484D" alt="stats" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=joseraulsoriano&theme=tokyonight&hide_border=true&ring=22D3EE&fire=E5484D&currStreakLabel=22D3EE" alt="streak" />
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Public+Sans&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=480&height=45&lines=un+d%C3%ADa+en+la+oficina" alt="un día en la oficina" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=480&height=40&lines=%24+./un_dia_en_la_oficina.sh" alt="un día en la oficina" />
 
 </div>
