@@ -15,6 +15,18 @@
 
 ---
 
+<div align="center">
+
+### Fundador de RTC Solutions
+
+**Software empresarial especializado** — centraliza, automatiza y crece. Integraciones omnicanal, automatización de procesos y analítica en tiempo real para empresas medianas. Entregado en semanas, no en meses.
+
+<a href="https://rtcsolutions-web.vercel.app"><img src="https://img.shields.io/badge/RTC%20Solutions-Visitar%20sitio-0D1117?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="RTC Solutions" /></a>
+
+</div>
+
+---
+
 ## Sobre mí
 
 Ingeniero **full-stack** que construye producto de punta a punta: del **iOS nativo (Swift)** y los **frontends** (Angular · Next.js + React 19) al **backend e infraestructura** (AWS · Django · Node · MongoDB). Me muevo entre la **arquitectura de producto**, la **IA aplicada** (visión, RAG, agentes de voz) y el detalle de UX que hace que algo se sienta terminado.
@@ -29,7 +41,7 @@ Ingeniero **full-stack** que construye producto de punta a punta: del **iOS nati
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,angular,swift,tailwind,nodejs,django,aws,mongodb,cpp,docker,git,vercel,vue,threejs,express,fastapi,redis,cloudflare,githubactions,arduino,grafana,prometheus&perline=8)](https://joserauldev.qzz.io)
+[![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,angular,astro,swift,tailwind,nodejs,django,aws,mongodb,cpp,docker,git,vercel,vue,threejs,express,fastapi,redis,cloudflare,githubactions,arduino,grafana,prometheus&perline=9)](https://joserauldev.qzz.io)
 
 </div>
 
