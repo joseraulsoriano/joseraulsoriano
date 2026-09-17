@@ -2,10 +2,10 @@
 
 <a href="https://joserauldev.qzz.io"><img src="./name.svg" alt="José Raúl Soriano" width="720" /></a>
 
-<p><sub>INGENIERO FULL-STACK &nbsp;·&nbsp; iOS &nbsp;·&nbsp; ANGULAR &nbsp;·&nbsp; AWS &nbsp;·&nbsp; IA APLICADA</sub></p>
+<p><sub>FULL-STACK ENGINEER &nbsp;·&nbsp; iOS &nbsp;·&nbsp; ANGULAR &nbsp;·&nbsp; AWS &nbsp;·&nbsp; APPLIED AI</sub></p>
 
 <p>
-<a href="https://joserauldev.qzz.io"><img src="https://img.shields.io/badge/Portafolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portafolio" /></a>
+<a href="https://joserauldev.qzz.io"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/joseraulchasee"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
 <a href="mailto:raulcazabal@icloud.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=maildotru&logoColor=E5484D" alt="Email" /></a>
 <a href="https://github.com/joseraulsoriano"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
@@ -17,27 +17,27 @@
 
 <div align="center">
 
-### Fundador de RTC Solutions
+### 🚀 Founder & CTO at RTC Solutions
 
-**Software empresarial especializado** — centraliza, automatiza y crece. Integraciones omnicanal, automatización de procesos y analítica en tiempo real para empresas medianas. Entregado en semanas, no en meses.
+**Specialized Enterprise Software** — Centralize, automate, and grow. Omnichannel integrations, workflow automation, and real-time analytics for medium-sized businesses. Delivered in weeks, not months.
 
-<a href="https://rtcsolutions-web.vercel.app"><img src="https://img.shields.io/badge/RTC%20Solutions-Visitar%20sitio-0D1117?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="RTC Solutions" /></a>
+<a href="https://rtcsolutions-web.vercel.app"><img src="https://img.shields.io/badge/RTC%20Solutions-Visit%20Site-0D1117?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="RTC Solutions" /></a>
 
 </div>
 
 ---
 
-## Sobre mí
+## 👨🏻‍💻 About Me
 
-Ingeniero **full-stack** que construye producto de punta a punta: del **iOS nativo (Swift)** y los **frontends** (Angular · Next.js + React 19) al **backend e infraestructura** (AWS · Django · Node · MongoDB). Me muevo entre la **arquitectura de producto**, la **IA aplicada** (visión, RAG, agentes de voz) y el detalle de UX que hace que algo se sienta terminado.
+I am a **Full-Stack Engineer** and Computer Science student at BUAP, passionate about building end-to-end products. My expertise spans from **native iOS (Swift)** and **modern frontends** (Angular · Next.js + React 19) to robust **backend architecture & infrastructure** (AWS · Django · Node · MongoDB). I thrive at the intersection of **product architecture**, **applied AI** (vision, RAG, voice agents), and the intricate UX details that make a product feel complete.
 
-- Hoy construyo accesibilidad audio-first con Ray-Ban Meta y agentes de voz por teléfono (Platanus Hack 26).
-- Trabajo en monorepos, organizo hubs por tecnología y dejo todo documentado.
-- Con base en México; construyo para MX y LATAM.
+- 🎙️ Currently building audio-first accessibility with Ray-Ban Meta and phone-based voice agents (Platanus Hack 26).
+- 📦 I work extensively with monorepos, organize tech hubs, and advocate for comprehensive documentation.
+- 🌎 Based in Mexico; building scalable solutions for MX and LATAM.
 
 ---
 
-## Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -47,14 +47,14 @@ Ingeniero **full-stack** que construye producto de punta a punta: del **iOS nati
 
 ---
 
-## Proyectos destacados
+## 💻 Featured Projects
 
 <table>
 <tr><td width="50%" valign="top">
 
-#### [MyEyesTalk · Puente](https://github.com/platanus-hack/platanus-hack-26-mx-team-5)
+#### 👁️ [MyEyesTalk · Puente](https://github.com/platanus-hack/platanus-hack-26-mx-team-5)
 
-Accesibilidad audio-first sobre Ray-Ban Meta Gen 2: narración espacial, lista de compras y decisiones por voz para personas con discapacidad visual.
+Audio-first accessibility on Ray-Ban Meta Gen 2: spatial narration, shopping lists, and voice-driven decision-making for visually impaired individuals.
 
 ![Swift](https://img.shields.io/badge/-Swift-0D1117?style=flat-square&logo=swift&logoColor=F05138)
 ![iOS](https://img.shields.io/badge/-iOS-0D1117?style=flat-square&logo=apple&logoColor=white)
@@ -64,9 +64,9 @@ Accesibilidad audio-first sobre Ray-Ban Meta Gen 2: narración espacial, lista d
 
 </td><td width="50%" valign="top">
 
-#### [hackAIVoice](https://github.com/rlaaron/hackAIVoice)
+#### 📞 [hackAIVoice](https://github.com/rlaaron/hackAIVoice)
 
-Agente de voz por llamada: Twilio Media Streams puenteado con ElevenLabs Conversational AI e identidad por número.
+Call-based voice agent: Twilio Media Streams bridged with ElevenLabs Conversational AI and caller ID authentication.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express&logoColor=white)
@@ -76,9 +76,9 @@ Agente de voz por llamada: Twilio Media Streams puenteado con ElevenLabs Convers
 </td></tr>
 <tr><td width="50%" valign="top">
 
-#### [Portafolio](https://joserauldev.qzz.io)
+#### 🌐 [Personal Portfolio](https://joserauldev.qzz.io)
 
-Next.js 16, React 19, Three.js, animaciones GSAP, cubo 3×3 de hubs por tecnología y auditoría de seguridad.
+Built with Next.js 16, React 19, Three.js, and GSAP animations. Features a 3×3 interactive technology hub cube and top-tier security audits.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
@@ -87,18 +87,19 @@ Next.js 16, React 19, Three.js, animaciones GSAP, cubo 3×3 de hubs por tecnolog
 
 </td><td width="50%" valign="top">
 
-#### Hackathons
+#### 🏆 Hackathons & Leadership
 
-HackMTY · Hack Morelos · Talent Land · Meta · TuFuturo. Organizador de **Hack Lobo** en la BUAP.
+Competitor at HackMTY, Hack Morelos, Talent Land, Meta, and TuFuturo. **Organizer of Hack Lobo** at BUAP. 
+Recent track winner for developing **[Verdana Loop](https://verdana-loop.vercel.app)**, a manufacturing workflow platform and PWA.
 
-![Hackathons](https://img.shields.io/badge/-Competidor%20%26%20Organizador-0D1117?style=flat-square&logo=devpost&logoColor=22D3EE)
+![Hackathons](https://img.shields.io/badge/-Competitor%20%26%20Organizer-0D1117?style=flat-square&logo=devpost&logoColor=22D3EE)
 
 </td></tr>
 </table>
 
 ---
 
-## GitHub
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -108,9 +109,3 @@ HackMTY · Hack Morelos · Talent Land · Meta · TuFuturo. Organizador de **Hac
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=480&height=40&lines=%24+./un_dia_en_la_oficina.sh" alt="un día en la oficina" />
-
-</div>
