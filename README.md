@@ -28,57 +28,8 @@
 
 **Specialized Enterprise Software** — Centralize, automate, and grow. Omnichannel integrations, workflow automation, and real-time analytics for medium-sized businesses. Delivered in weeks, not months.
 
+<br>
+
 <a href="https://rtcsolutions-web.vercel.app"><img src="https://img.shields.io/badge/RTC%20Solutions-Visit%20Site-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="RTC Solutions" /></a>
 
 </div>
-
----
-
-```text
-   ___  _               _      __  __ 
-  / _ \| |__   ___ _  _| |_   |  \/  | ___ 
- | (_) | '_ \ / _ \ || |  _|  | |\/| |/ _ \
-  \___/|_.__/ \___/\_,_|\__|  |_|  |_|\___|
-
-```
-
-I am a **Full-Stack Engineer** and Computer Science student at BUAP, passionate about building end-to-end products. My expertise spans from **native iOS (Swift)** and **modern frontends** (Angular · Next.js + React 19) to robust **backend architecture & infrastructure** (AWS · Django · Node · MongoDB). I thrive at the intersection of **product architecture**, **applied AI** (vision, RAG, voice agents), and the intricate UX details that make a product feel complete.
-
-* Currently building audio-first accessibility with Ray-Ban Meta and phone-based voice agents (Platanus Hack 26).
-* I work extensively with monorepos, organize tech hubs, and advocate for comprehensive documentation.
-* Based in Mexico; building scalable solutions for MX and LATAM.
-
----
-
-## Tech Stack
-
----
-
-## Featured Projects
-
-#### [MyEyesTalk · Puente](https://github.com/platanus-hack/platanus-hack-26-mx-team-5)
-
-Audio-first accessibility on Ray-Ban Meta Gen 2: spatial narration, shopping lists, and voice-driven decision-making for visually impaired individuals.
-
-#### [hackAIVoice](https://github.com/rlaaron/hackAIVoice)
-
-Call-based voice agent: Twilio Media Streams bridged with ElevenLabs Conversational AI and caller ID authentication.
-
-#### [Personal Portfolio](https://joserauldev.qzz.io)
-
-Built with Next.js 16, React 19, Three.js, and GSAP animations. Features a 3×3 interactive technology hub cube and top-tier security audits.
-
-#### Hackathons & Leadership
-
-Competitor at HackMTY, Hack Morelos, Talent Land, Meta, and TuFuturo. **Organizer of Hack Lobo** at BUAP.
-Recent track winner for developing **[Verdana Loop](https://verdana-loop.vercel.app)**, a manufacturing workflow platform and PWA.
-
----
-
-## GitHub Stats
-
----
-
-```
-
-```
