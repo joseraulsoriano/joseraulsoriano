@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://joserauldev.qzz.io"><img src="./name.svg" alt="José Raúl Soriano" width="720" /></a>
+<a href="https://joseraulsoriano.com"><img src="./name.svg" alt="José Raúl Soriano" width="720" /></a>
 
 <br>
 
@@ -12,7 +12,7 @@
 </p>
 
 <p>
-<a href="https://joserauldev.qzz.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://joseraulsoriano.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/joseraulchasee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:raulcazabal@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/joseraulsoriano"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -50,7 +50,7 @@ I am a **Full-Stack Engineer** and Computer Science student at BUAP, passionate 
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,angular,astro,swift,tailwind,nodejs,django,aws,mongodb,cpp,docker,git,vercel,vue,threejs,express,fastapi,redis,cloudflare,githubactions,arduino,grafana,prometheus&perline=9)](https://joserauldev.qzz.io)
+[![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,angular,astro,swift,tailwind,nodejs,django,aws,mongodb,cpp,docker,git,vercel,vue,threejs,express,fastapi,redis,cloudflare,githubactions,arduino,grafana,prometheus&perline=9)](https://joseraulsoriano.com)
 
 </div>
 
@@ -88,7 +88,7 @@ Call-based voice agent: Twilio Media Streams bridged with ElevenLabs Conversatio
 </td></tr>
 <tr><td width="50%" valign="top">
 
-#### 🌐 [Personal Portfolio](https://joserauldev.qzz.io)
+#### 🌐 [Personal Portfolio](https://joseraulsoriano.com)
 
 Built with Next.js 16, React 19, Three.js, and GSAP animations. Features a 3×3 interactive technology hub cube and top-tier security audits.
 
